@@ -19,7 +19,7 @@ python3 -m venv 虚拟环境名称
 激活虚拟环境：
 
 ```shell
-source env/bin/activate
+source 虚拟环境名称/bin/activate
 ```
 
 安装项目所需依赖：
